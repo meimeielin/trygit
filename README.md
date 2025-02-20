@@ -7,3 +7,4 @@ try to study github well
 
 #Try read me edit
 >>>>>>> bef8a77 (0219/Try editting README.md)
+try to add some new things
